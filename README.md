@@ -1,7 +1,7 @@
 # 🤖 Bot de Discord + Panel Web Administrativo (CodeCord)
 
 ---
-
+> [!NOTE]
 ## 🔧 Versión 3.0
 
 ### 🆕 Novedades de esta versión
